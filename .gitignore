@@ -9,3 +9,15 @@ export.cfg
 *.tmp
 *.keystore
 *export_android.cfg
+
+assets/animations/.gitkeep
+assets/buildings/.gitkeep
+assets/gui/.gitkeep
+assets/sounds/fx/.gitkeep
+assets/sounds/soundtrack/.gitkeep
+assets/terrain/.gitkeep
+assets/units/.gitkeep
+scripts/controllers/.gitkeep
+tilesets/.gitkeep
+units/.gitkeep
+
